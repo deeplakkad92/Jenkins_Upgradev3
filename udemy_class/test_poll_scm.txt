@@ -1,0 +1,1 @@
+I am testing my first maven project and build scheduled automatically by jenkins
